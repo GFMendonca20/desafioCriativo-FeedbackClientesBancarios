@@ -52,8 +52,4 @@ A base contém colunas como:
 - Informar limitações quando os dados não forem suficientes
 - Usar linguagem **executiva, clara e objetiva**, adequada para relatórios de gestão
 
----
 
-## 📜 Licença
-Este projeto está sob a licença MIT.  
-Sinta-se livre para usar e adaptar conforme necessário.
